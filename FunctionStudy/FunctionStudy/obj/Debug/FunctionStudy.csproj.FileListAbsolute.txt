@@ -1,0 +1,12 @@
+d:\users\user\documents\visual studio 2012\Projects\FunctionStudy\FunctionStudy\bin\Debug\FunctionStudy.exe.config
+d:\users\user\documents\visual studio 2012\Projects\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.csprojResolveAssemblyReference.cache
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.csprojAssemblyReference.cache
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.csproj.CoreCompileInputs.cache
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\bin\Debug\FunctionStudy.exe.config
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\bin\Debug\FunctionStudy.exe
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\bin\Debug\FunctionStudy.pdb
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.exe
+D:\Ilay\Recursion\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.pdb
+C:\Users\User\Desktop\FunctionStudy\FunctionStudy\bin\Debug\FunctionStudy.exe.config
+C:\Users\User\Desktop\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.exe
+C:\Users\User\Desktop\FunctionStudy\FunctionStudy\obj\Debug\FunctionStudy.pdb
